@@ -9,3 +9,7 @@
 
 ## 2. Write your first complete OS
 - https://littleosbook.github.io/
+
+## 3- fucking-algorithm
+- https://github.com/labuladong/fucking-algorithm/tree/english
+- https://labuladong.gitbook.io/algo-en/
