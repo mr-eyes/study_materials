@@ -13,3 +13,6 @@
 ## 3- fucking-algorithm
 - https://github.com/labuladong/fucking-algorithm/tree/english
 - https://labuladong.gitbook.io/algo-en/
+
+## 4- ML/DL
+- https://deep-learning-drizzle.github.io/
